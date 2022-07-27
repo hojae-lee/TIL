@@ -4,4 +4,5 @@
 
 ## 2022-07-27
 
-1. slack, github 연동
+1. `slack, github` 연동
+2. `puppeteer` 기능 중 `setViewport` 사용
