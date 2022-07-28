@@ -6,3 +6,7 @@
 
 1. `slack, github` 연동
 2. `puppeteer` 기능 중 `setViewport` 사용
+
+## 2022-07-28
+
+1. 이벤트 버블링 관련하여 `preventDefault, stopPropagation` 사용하고 
